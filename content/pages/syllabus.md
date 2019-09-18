@@ -90,7 +90,7 @@ The material covered on Friday and Monday is identical.
 
 b) **Advanced Sections** which will cover advanced topics like the mathematical underpinnings of the methods seen in lecture and lab and extensions of those methods.  The material covered in the Advanced Sections is **required **for all AC 209A students.
 
-Advanced Sections are held **Weds 4:30-5:45 pm at Sever Room 113**
+Advanced Sections are held **Weds 4:30-5:45 pm at Maxwell Dworkin G115**
 
 **Note:** Advanced Sections are not held every week. Consult the <a href="https://canvas.harvard.edu/courses/61942/pages/calendar">course calendar</a> for exact dates.
 
@@ -195,10 +195,9 @@ For more details, check out [The CS109A Grade](https://canvas.harvard.edu/files/
 
 #### Questions on Graded Homework and Regrading Policy
 
-We take great care in making sure all homework assignments are graded properly. However, if you feel that your assignment was not fairly graded you may:
-Contact the grader by emailing the helpline with subject line "Regrade HW1: Grader=johnsmith"  within **48 hours of the grade release**.
-If still unhappy with the initial response, then submit a reason via email to the Helpline with subject line "Regrade HW1: Second request" within 2 days of receiving the initial response.  Note: once regrading is done, you may receive a grade that is higher or lower than the initial grade.
+We take great care in making sure all homework assignments are graded properly. However, if you find that your assignment has grading oversights/errors you may: Contact the grader by emailing the helpline with subject line “Regrade HW1: Grader=johnsmith”  within 48 hours of the grade release (the grader’s name can be found at the end of your notebook). If still unsatisfied with first regrading outcome, you may submit a reason via email to the Helpline with subject line “Regrade HW1: Second request” within 2 days of receiving the initial regarding response.
 
+NOTE: once regrading is done, you may receive a grade that could be lower than the initial grade.
 
 #### Collaboration Policy
 
@@ -219,8 +218,7 @@ Class announcements will be through **Canvas**. All homework and quizzes will be
 
 #### Submitting an assignment
 
-Instructions for turning in assignments will be posted when the semester starts.
-
+Please consult [Homework Policies & Submission Instructions](https://canvas.harvard.edu/courses/61942/pages/homework-policies-and-submission-instructions?module_item_id=566849 "Homework Policies & Submission Instructions")
 
 #### Course Grade
 
